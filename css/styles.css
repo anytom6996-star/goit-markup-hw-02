@@ -24,6 +24,17 @@ body{
     text-decoration: none;
 }
 
+.logo-footer{
+    font-family: 'Raleway', sans-serif;
+    color: #F4F4FD;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: 3;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
 .logo-accent {
     color: #4D5AE5;
 }
